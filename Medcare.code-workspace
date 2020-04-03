@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "sass\\abstract"
+		},
+		{
+			"path": "sass\\base"
+		},
+		{
+			"path": "sass\\components"
+		},
+		{
+			"path": "sass\\layouts"
+		},
+		{
+			"path": "sass\\pages"
+		}
+	]
+}
